@@ -23,5 +23,5 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 
 ## Get in touch
 - Instagram: https://instagram.com/redzjovi
-- LinkedIn: https://www.linkedin.com/in/jovi-wang-9951719a/
-- Personal site: https://tech.bodyfitstation.com.com/
+- LinkedIn: https://www.linkedin.com/in/jovi-wang-9951719a
+- Personal site: https://tech.bodyfitstation.com
