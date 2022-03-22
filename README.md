@@ -1,5 +1,5 @@
 ## Hi there 👋
-💻 Hi, I'm Jovi (he / him) — a backend developer at [Mister Aladin](https://www.misteraladin.com) 🏨🚝✈️, and [Food Palate](https://www.foodpalate.com.au) 🥗.<br>
+💻 Hi, I'm Jovi (he / him) — a Lead Backend Engineer at [Mister Aladin](https://www.misteraladin.com) 🏨🚝✈️,
 🏠 I live in Jakarta, Indonesia 🇮🇩.<br>
 🤓 I'm a nerd. Love learning, sports ⚽️, and keep healthy 🧘.
 
