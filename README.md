@@ -4,10 +4,10 @@
 🤓 I'm a nerd. Love learning, sports ⚽️, and keep healthy 🧘.
 
 ## 🔭 I’m currently working on ...
-- PHP, Laravel, Yii
-- Vuejs, Nuxtjs
 - Go, Gin
+- Vuejs, Nuxtjs
 - Amazon Web Services, Alibaba Cloud
+- PHP, Laravel, Yii
 
 ## 🌱 I’m currently learning ...
 - Time management
