@@ -1,21 +1,21 @@
 ## Hi there 👋
-💻 Hi, I'm Jovi (he / him) — a Lead Backend Engineer at [Mister Aladin](https://www.misteraladin.com) 🏨🚝✈️,
-🏠 I live in Jakarta, Indonesia 🇮🇩.<br>
+💻 Hi, I'm Jovi (he / him) — a Senior Backend Engineer at [KarirLab](https://karirlab.co)🏫.\
+🏠 I live in Jakarta, Indonesia 🇮🇩.\
 🤓 I'm a nerd. Love learning, sports ⚽️, and keep healthy 🧘.
 
 ## 🔭 I’m currently working on ...
 - PHP, Laravel, Yii
 - Vuejs, Nuxtjs
 - Go, Gin
-- Cloud, Alibaba Cloud
+- Amazon Web Services, Alibaba Cloud
 
 ## 🌱 I’m currently learning ...
-- Swift
+- Time management
 
 ## My values
-💖 Safety and honest<br>
-🤓 Beginner's mindset and curiosity<br>
-🙌 Shared norms<br>
+💖 Safety and honest\
+🤓 Beginner's mindset and curiosity\
+🙌 Shared norms\
 🧘 Eliminate under pressure
 
 ## How I work
