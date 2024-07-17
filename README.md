@@ -1,5 +1,5 @@
 ## Hi there 👋
-💻 Hi, I'm Jovi (he / him) — a Senior Backend Engineer at [KarirLab](https://karirlab.co)🏫.\
+💻 Hi, I'm Jovi (he / him) — a Software Engineer.\
 🏠 I live in Jakarta, Indonesia 🇮🇩.\
 🤓 I'm a nerd. Love learning, sports ⚽️, and keep healthy 🧘.
 
@@ -13,13 +13,10 @@
 - Time management
 
 ## My values
-💖 Safety and honest\
+💖 Honest\
 🤓 Beginner's mindset and curiosity\
-🙌 Shared norms\
+🙌 Share knowledge\
 🧘 Eliminate under pressure
-
-## How I work
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 
 ## Get in touch
 - Instagram: https://instagram.com/redzjovi
