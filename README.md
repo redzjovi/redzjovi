@@ -18,6 +18,10 @@
 🙌 Share knowledge\
 🧘 Eliminate under pressure
 
+## 🕒 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Get in touch
 - Instagram: https://instagram.com/redzjovi
 - LinkedIn: https://www.linkedin.com/in/jovi-wang-9951719a

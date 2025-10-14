@@ -1,0 +1,15 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at midnight UTC
+  workflow_dispatch: # allows manual trigger
+
+jobs:
+  update-readme:
+    name: Update Readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: redzjovi/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
