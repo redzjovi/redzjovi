@@ -1,3 +1,5 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Hi there 👋
 💻 Hi, I'm Jovi (he / him) — a Software Engineer.\
 🏠 I live in Jakarta, Indonesia 🇮🇩.\
