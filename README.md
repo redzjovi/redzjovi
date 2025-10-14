@@ -1,5 +1,3 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## Hi there 👋
 💻 Hi, I'm Jovi (he / him) — a Software Engineer.\
 🏠 I live in Jakarta, Indonesia 🇮🇩.\
@@ -37,3 +35,6 @@ JavaScript   6 mins          ░░░░░░░░░░░░░░░░░
 - Instagram: https://instagram.com/redzjovi
 - LinkedIn: https://www.linkedin.com/in/jovi-wang-9951719a
 - Personal site: https://tech.bodyfitstation.com
+
+## ✨ Random Dev Quote
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
