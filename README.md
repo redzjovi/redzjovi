@@ -20,7 +20,7 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C905%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,18 +65,18 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       3 hrs 13 mins       █████████████████████████   99.68 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Go                       4 hrs 19 mins       █████████████████████████   99.28 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-soulsaveronline-go       3 hrs 14 mins       █████████████████████████   100.00 % 
+soulsaveronline-go       4 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -96,7 +96,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2025-11-29 00:14:59 UTC
+ Last Updated on 2025-11-30 00:17:11 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
