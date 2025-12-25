@@ -65,19 +65,16 @@ Sunday                   1366 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       1 hr 9 mins         ████████████████████████░   96.87 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-go-playground            1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -97,7 +94,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2025-12-24 00:16:04 UTC
+ Last Updated on 2025-12-25 00:15:50 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
