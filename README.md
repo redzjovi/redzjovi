@@ -20,7 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C917%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.68%20million%20lines%20of%20code-blue)
 
@@ -36,6 +38,45 @@
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2567 commits        ██████████░░░░░░░░░░░░░░░   38.85 % 
+🌆 Daytime                2127 commits        ████████░░░░░░░░░░░░░░░░░   32.19 % 
+🌃 Evening                1512 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+🌙 Night                  401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   766 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Tuesday                  954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Wednesday                1017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Thursday                 646 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Friday                   884 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Saturday                 974 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Sunday                   1366 commits        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -53,7 +94,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-01-04 00:17:37 UTC
+ Last Updated on 2026-01-05 00:17:36 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
