@@ -20,6 +20,8 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C917%20hrs%2027%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.41%20million%20lines%20of%20code-blue?style=flat)
@@ -63,16 +65,19 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 26 mins             ███████████████████░░░░░░   74.14 % 
+YAML                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dikbudhr                 23 mins             ████████████████░░░░░░░░░   64.05 % 
+nexus-be                 13 mins             █████████░░░░░░░░░░░░░░░░   35.95 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -92,7 +97,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-02-02 00:18:56 UTC
+ Last Updated on 2026-02-03 00:20:02 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
