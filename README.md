@@ -63,20 +63,20 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       12 hrs 19 mins      █████████████████████░░░░   85.18 % 
-YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-SQL                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Makefile                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Go                       11 hrs 43 mins      ███████████████████████░░   90.54 % 
+SQL                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 14 hrs 27 mins      █████████████████████████   100.00 % 
+nexus-be                 12 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -96,7 +96,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-07-24 00:28:27 UTC
+ Last Updated on 2026-07-25 00:30:55 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
