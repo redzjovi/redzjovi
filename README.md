@@ -67,44 +67,44 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       8 hrs 10 mins       ███████████████████░░░░░░   74.21 % 
-SQL                      2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Go                       13 hrs 13 mins      ███████████████████░░░░░░   74.86 % 
+SQL                      3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  17 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 11 hrs 1 min        █████████████████████████   100.00 % 
+nexus-be                 17 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    17 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 58 mins (63.29%)
+⏱ AI Coding Time: 13 hrs 8 mins (74.37%)
 
-✍️ 8,971 lines written by AI, 300 lines written by hand (96.76% AI-written)
+✍️ 8,796 lines written by AI, 484 lines written by hand (94.78% AI-written)
 
-🔤 3,161,171 Input Tokens, 415,082 Output Tokens
+🔤 6,342,893 Input Tokens, 456,066 Output Tokens
 
-💵 $15.71 Estimated AI Cost This Week
+💵 $25.87 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 109 AI Prompts
+🧠 33 AI Sessions, 185 AI Prompts
 
-Deepseek                 9,946 lines         █████████████████████████   100.00 % 
+Deepseek                 10,283 lines        █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.76% of written lines came from AI
-📝 Concise Prompter — average 476 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 23.4% of changed lines were hand-edited
+🤖 AI-Driven — 94.78% of written lines came from AI
+📝 Concise Prompter — average 290 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 35.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -124,7 +124,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-03 00:31:44 UTC
+ Last Updated on 2026-08-05 00:30:27 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
