@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C916%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C918%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -67,44 +67,44 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       9 hrs 30 mins       ██████████████░░░░░░░░░░░   56.65 % 
-SQL                      4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Markdown                 2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Go                       8 hrs 52 mins       ███████████████░░░░░░░░░░   58.25 % 
+SQL                      3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Markdown                 1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 14 hrs 31 mins      ██████████████████████░░░   86.52 % 
-dagster                  2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+nexus-be                 13 hrs 15 mins      ██████████████████████░░░   87.07 % 
+dagster                  1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 
 💻 Operating System: 
-Linux                    16 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 14 mins (67.02%)
+⏱ AI Coding Time: 9 hrs 23 mins (61.65%)
 
-✍️ 4,780 lines written by AI, 5,310 lines written by hand (47.37% AI-written)
+✍️ 4,256 lines written by AI, 6,906 lines written by hand (38.13% AI-written)
 
-🔤 12,351,244 Input Tokens, 1,802,197 Output Tokens
+🔤 10,405,702 Input Tokens, 1,618,919 Output Tokens
 
-💵 $526.61 Estimated AI Cost This Week
+💵 $459.24 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 111 AI Prompts
+🧠 19 AI Sessions, 90 AI Prompts
 
-Deepseek                 5,474 lines         █████████████████████████   100.00 % 
+Deepseek                 4,889 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.37% of written lines came from AI
-📝 Concise Prompter — average 445 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 68.67% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.13% of written lines came from AI
+📄 Detailed Prompter — average 571 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 74.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -124,7 +124,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-19 00:52:57 UTC
+ Last Updated on 2026-08-20 00:52:30 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
