@@ -67,45 +67,47 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 11 mins       ████████████████░░░░░░░░░   63.47 % 
-Markdown                 1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-SQL                      1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Go                       5 hrs 54 mins       ██████████████░░░░░░░░░░░   56.40 % 
+SQL                      3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 5 hrs 23 mins       ████████████████████░░░░░   81.68 % 
-dagster                  1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+nexus-be                 9 hrs 11 mins       ██████████████████████░░░   87.83 % 
+dagster                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+zorin                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 42 mins (56.11%)
+⏱ AI Coding Time: 7 hrs (66.99%)
 
-✍️ 1,462 lines written by AI, 2,528 lines written by hand (36.64% AI-written)
+✍️ 2,426 lines written by AI, 2,659 lines written by hand (47.71% AI-written)
 
-🔤 3,733,875 Input Tokens, 414,209 Output Tokens
+🔤 6,196,140 Input Tokens, 626,904 Output Tokens
 
-💵 $182.35 Estimated AI Cost This Week
+💵 $291.30 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 43 AI Prompts
+🧠 31 AI Sessions, 95 AI Prompts
 
-Deepseek                 1,620 lines         █████████████████████████   100.00 % 
+Deepseek                 1,620 lines         █████████████░░░░░░░░░░░░   50.22 % 
+Mimo                     1,606 lines         ████████████░░░░░░░░░░░░░   49.78 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 36.64% of written lines came from AI
-📚 Verbose Prompter — average 1,508 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 71.31% of changed lines were hand-edited
+⚖️ Balanced with AI — 47.71% of written lines came from AI
+📄 Detailed Prompter — average 835 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 58.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,7 +127,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-24 00:54:31 UTC
+ Last Updated on 2026-08-25 00:54:12 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
