@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C923%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C927%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,47 +67,47 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 54 mins       ██████████████░░░░░░░░░░░   56.40 % 
-SQL                      3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Go                       4 hrs 15 mins       █████████████░░░░░░░░░░░░   50.33 % 
+SQL                      2 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
+Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 9 hrs 11 mins       ██████████████████████░░░   87.83 % 
-dagster                  1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+nexus-be                 7 hrs 16 mins       █████████████████████░░░░   85.90 % 
+dagster                  1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
 zorin                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs (66.99%)
+⏱ AI Coding Time: 5 hrs 30 mins (65.02%)
 
-✍️ 2,426 lines written by AI, 2,659 lines written by hand (47.71% AI-written)
+✍️ 1,887 lines written by AI, 2,541 lines written by hand (42.62% AI-written)
 
-🔤 6,196,140 Input Tokens, 626,904 Output Tokens
+🔤 4,674,693 Input Tokens, 415,761 Output Tokens
 
-💵 $291.30 Estimated AI Cost This Week
+💵 $218.59 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 95 AI Prompts
+🧠 25 AI Sessions, 77 AI Prompts
 
-Deepseek                 1,620 lines         █████████████░░░░░░░░░░░░   50.22 % 
-Mimo                     1,606 lines         ████████████░░░░░░░░░░░░░   49.78 % 
+Mimo                     1,606 lines         ████████████████░░░░░░░░░   63.45 % 
+Deepseek                 925 lines           █████████░░░░░░░░░░░░░░░░   36.55 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Spark                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.71% of written lines came from AI
-📄 Detailed Prompter — average 835 characters per prompt
+⚖️ Balanced with AI — 42.62% of written lines came from AI
+📄 Detailed Prompter — average 816 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 58.02% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 63.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -127,7 +127,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-25 00:54:12 UTC
+ Last Updated on 2026-08-26 00:55:05 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
