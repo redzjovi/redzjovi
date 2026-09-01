@@ -67,49 +67,47 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.73 % 
-SQL                      3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
-Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Go                       3 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.83 % 
+Markdown                 1 hr 56 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+SQL                      1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 8 hrs 46 mins       █████████████████████░░░░   85.43 % 
-ina-digital              1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-jira                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-NEXUS-1024               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-dagster                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+nexus-be                 6 hrs 19 mins       ███████████████████░░░░░░   76.77 % 
+ina-digital              1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+jira                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+NEXUS-1024               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Linux                    10 hrs 16 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 4 mins (78.62%)
+⏱ AI Coding Time: 6 hrs 11 mins (75.02%)
 
-✍️ 2,369 lines written by AI, 178 lines written by hand (93.01% AI-written)
+✍️ 3,395 lines written by AI, 58 lines written by hand (98.32% AI-written)
 
-🔤 12,777,137 Input Tokens, 556,784 Output Tokens
+🔤 16,536,391 Input Tokens, 456,850 Output Tokens
 
-💵 $412.53 Estimated AI Cost This Week
+💵 $448.28 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 117 AI Prompts
+🧠 14 AI Sessions, 83 AI Prompts
 
-Mimo                     1,606 lines         █████████████░░░░░░░░░░░░   51.56 % 
-Spark                    985 lines           ████████░░░░░░░░░░░░░░░░░   31.62 % 
-Opencode-Cli             512 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Nemotron                 12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Spark                    2,978 lines         █████████████████████░░░░   85.04 % 
+Opencode-Cli             512 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Nemotron                 12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.01% of written lines came from AI
-📝 Concise Prompter — average 331 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 16.58% of changed lines were hand-edited
+🤖 AI-Driven — 98.32% of written lines came from AI
+📝 Concise Prompter — average 302 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -129,7 +127,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-08-31 02:49:28 UTC
+ Last Updated on 2026-09-01 03:00:43 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
