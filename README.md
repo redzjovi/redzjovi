@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C935%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C937%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,47 +67,47 @@ Sunday                   1366 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.06 % 
-SQL                      2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-Markdown                 1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Go                       5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.45 % 
+SQL                      5 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 8 hrs 10 mins       ████████████████████░░░░░   81.02 % 
-ina-digital              1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-jira                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-NEXUS-1024               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+nexus-be                 12 hrs 48 mins      ███████████████████████░░   91.05 % 
+ina-digital              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+jira                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-Linux                    10 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (71.24%)
+⏱ AI Coding Time: 10 hrs 39 mins (75.79%)
 
-✍️ 3,622 lines written by AI, 66 lines written by hand (98.21% AI-written)
+✍️ 4,838 lines written by AI, 114 lines written by hand (97.7% AI-written)
 
-🔤 20,529,893 Input Tokens, 567,727 Output Tokens
+🔤 32,596,473 Input Tokens, 1,021,572 Output Tokens
 
-💵 $549.54 Estimated AI Cost This Week
+💵 $1020.95 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 110 AI Prompts
+🧠 25 AI Sessions, 150 AI Prompts
 
-Spark                    3,218 lines         ██████████████████████░░░   86.00 % 
-Opencode-Cli             512 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Nemotron                 12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Spark                    5,016 lines         █████████████████████████   99.60 % 
+Nemotron                 12 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Deepseek                 8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.21% of written lines came from AI
-📝 Concise Prompter — average 263 characters per prompt
+🤖 AI-Driven — 97.7% of written lines came from AI
+📝 Concise Prompter — average 230 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.6% of changed lines were hand-edited
+🚀 High AI Trust — 6.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -127,7 +127,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-02 02:20:35 UTC
+ Last Updated on 2026-09-03 02:28:47 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
