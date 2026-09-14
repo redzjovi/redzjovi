@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C978%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C979%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,7 +32,7 @@
 
 > 📦 190.0 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2026
+> 🏆 67 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,9 +43,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2193 commits        ██████████░░░░░░░░░░░░░░░   38.42 % 
-🌆 Daytime                1689 commits        ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-🌃 Evening                1525 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+🌞 Morning                2193 commits        ██████████░░░░░░░░░░░░░░░   38.41 % 
+🌆 Daytime                1691 commits        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+🌃 Evening                1525 commits        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
 🌙 Night                  301 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -56,8 +56,8 @@ Tuesday                  781 commits         ███░░░░░░░░�
 Wednesday                770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 Thursday                 621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 Friday                   535 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Saturday                 917 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Sunday                   1375 commits        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Saturday                 917 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Sunday                   1377 commits        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
 ```
 
 
@@ -67,51 +67,51 @@ Sunday                   1375 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Svelte                   13 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.73 % 
-TypeScript               4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Go                       3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-SQL                      3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Markdown                 3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Svelte                   11 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
+TypeScript               3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Go                       3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+SQL                      3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Markdown                 2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 25 mins      █████████████████████████   99.99 % 
+VS Code                  27 hrs 41 mins      █████████████████████████   99.99 % 
 KiloCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-cahayabahari89           22 hrs 10 mins      ██████████████████░░░░░░░   70.57 % 
-nexus-be                 8 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-jira                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+cahayabahari89           18 hrs 26 mins      █████████████████░░░░░░░░   66.61 % 
+nexus-be                 8 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
+jira                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 dikbudhr                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    31 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 26 mins (90.52%)
+⏱ AI Coding Time: 24 hrs 21 mins (87.97%)
 
-✍️ 16,712 lines written by AI, 273 lines written by hand (98.39% AI-written)
+✍️ 13,828 lines written by AI, 272 lines written by hand (98.07% AI-written)
 
-🔤 64,984,825 Input Tokens, 1,607,304 Output Tokens
+🔤 51,625,485 Input Tokens, 1,370,014 Output Tokens
 
-💵 $3296.48 Estimated AI Cost This Week
+💵 $2669.94 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 399 AI Prompts
+🧠 37 AI Sessions, 351 AI Prompts
 
-Spark                    12,379 lines        ██████████████████░░░░░░░   71.68 % 
-KiloCode                 3,398 lines         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Deepseek                 1,178 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Mimo                     228 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Nemotron                 87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Spark                    9,531 lines         █████████████████░░░░░░░░   66.76 % 
+KiloCode                 3,398 lines         ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Deepseek                 1,032 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Mimo                     228 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Nemotron                 87 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.39% of written lines came from AI
-📝 Concise Prompter — average 104 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 2.52% of changed lines were hand-edited
+🤖 AI-Driven — 98.07% of written lines came from AI
+📝 Concise Prompter — average 114 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 3.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -131,7 +131,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-13 02:32:47 UTC
+ Last Updated on 2026-09-14 02:49:08 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
