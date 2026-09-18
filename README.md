@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C988%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C990%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-189%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,47 +67,46 @@ Sunday                   1377 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-SQL                      4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Svelte                   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Markdown                 2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-TypeScript               2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Go                       5 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
+SQL                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Markdown                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Svelte                   1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 12 hrs 21 mins      ███████████████░░░░░░░░░░   61.03 % 
-cahayabahari89           7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.34 % 
-ghostmplay               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-jira                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+nexus-be                 10 hrs 22 mins      ███████████████████░░░░░░   74.08 % 
+cahayabahari89           3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+ghostmplay               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+jira                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 💻 Operating System: 
-Linux                    20 hrs 14 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 6 mins (74.66%)
+⏱ AI Coding Time: 10 hrs 1 min (71.56%)
 
-✍️ 7,295 lines written by AI, 169 lines written by hand (97.74% AI-written)
+✍️ 5,730 lines written by AI, 71 lines written by hand (98.78% AI-written)
 
-🔤 38,982,076 Input Tokens, 1,047,207 Output Tokens
+🔤 27,439,259 Input Tokens, 762,983 Output Tokens
 
-💵 $1690.13 Estimated AI Cost This Week
+💵 $961.00 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 202 AI Prompts
+🧠 19 AI Sessions, 129 AI Prompts
 
-Spark                    7,486 lines         █████████████████████████   100.00 % 
+Spark                    5,844 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.74% of written lines came from AI
-📝 Concise Prompter — average 102 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 6.95% of changed lines were hand-edited
+🤖 AI-Driven — 98.78% of written lines came from AI
+📝 Concise Prompter — average 85 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 6.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -127,7 +126,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-17 02:51:10 UTC
+ Last Updated on 2026-09-18 02:37:58 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
