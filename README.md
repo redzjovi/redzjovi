@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C004%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C007%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-203%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -30,9 +30,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 190.2 kB Used in GitHub's Storage 
+> 📦 190.3 kB Used in GitHub's Storage 
  > 
-> 🏆 77 Contributions in the Year 2026
+> 🏆 81 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,21 +43,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2194 commits        ██████████░░░░░░░░░░░░░░░   38.36 % 
-🌆 Daytime                1696 commits        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-🌃 Evening                1528 commits        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌞 Morning                2198 commits        ██████████░░░░░░░░░░░░░░░   38.40 % 
+🌆 Daytime                1696 commits        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+🌃 Evening                1528 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
 🌙 Night                  302 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Tuesday                  782 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Wednesday                770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Thursday                 621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Friday                   536 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Saturday                 922 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Sunday                   1380 commits        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Monday                   709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Tuesday                  786 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Wednesday                770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Thursday                 621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Friday                   536 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Saturday                 922 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Sunday                   1380 commits        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
 ```
 
 
@@ -67,47 +67,48 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue                      7 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.85 % 
-Go                       4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-TypeScript               3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Markdown                 3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-SQL                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Vue                      7 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   35.15 % 
+TypeScript               4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Go                       2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ghostmplay               12 hrs 59 mins      ██████████████░░░░░░░░░░░   56.01 % 
-nexus-be                 8 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.19 % 
-jira                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-ina-digital              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+ghostmplay               12 hrs 59 mins      ████████████████░░░░░░░░░   63.82 % 
+nexus-be                 4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+jira                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+cahayabahari89           1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+ina-digital              33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 💻 Operating System: 
-Linux                    23 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 30 mins (84.12%)
+⏱ AI Coding Time: 17 hrs 2 mins (83.8%)
 
-✍️ 7,592 lines written by AI, 85 lines written by hand (98.89% AI-written)
+✍️ 7,013 lines written by AI, 87 lines written by hand (98.77% AI-written)
 
-🔤 27,703,021 Input Tokens, 1,897,437 Output Tokens
+🔤 19,895,827 Input Tokens, 1,827,432 Output Tokens
 
-💵 $2396.26 Estimated AI Cost This Week
+💵 $2125.29 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 365 AI Prompts
+🧠 67 AI Sessions, 356 AI Prompts
 
-Spark                    8,184 lines         █████████████████████████   99.99 % 
+Spark                    7,597 lines         █████████████████████████   99.99 % 
 Mimo                     1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.89% of written lines came from AI
-📝 Concise Prompter — average 196 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 11.84% of changed lines were hand-edited
+🤖 AI-Driven — 98.77% of written lines came from AI
+📝 Concise Prompter — average 207 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 10.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -127,7 +128,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-22 02:47:10 UTC
+ Last Updated on 2026-09-23 02:48:03 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
