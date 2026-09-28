@@ -32,7 +32,7 @@
 
 > 📦 190.3 kB Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2026
+> 🏆 85 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,21 +43,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2198 commits        ██████████░░░░░░░░░░░░░░░   38.40 % 
-🌆 Daytime                1696 commits        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-🌃 Evening                1528 commits        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌙 Night                  302 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+🌞 Morning                2200 commits        ██████████░░░░░░░░░░░░░░░   38.41 % 
+🌆 Daytime                1696 commits        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+🌃 Evening                1528 commits        ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+🌙 Night                  304 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   709 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Tuesday                  786 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Wednesday                770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Thursday                 621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Friday                   536 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Saturday                 922 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Sunday                   1380 commits        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Monday                   710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Tuesday                  786 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Wednesday                770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Thursday                 621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Friday                   539 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Saturday                 922 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Sunday                   1380 commits        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
 ```
 
 
@@ -67,48 +67,48 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
-Vue                      3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Go                       2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-TypeScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Markdown                 5 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.80 % 
+Go                       2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ghostmplay               5 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.74 % 
-nexus-be                 3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-ina-digital              2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-jira                     2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-cahayabahari89           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+nexus-be                 3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
+ina-digital              2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+ghostmplay               2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+jira                     2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+cahayabahari89           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 💻 Operating System: 
-Linux                    15 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 12 mins (84.61%)
+⏱ AI Coding Time: 10 hrs 13 mins (81.6%)
 
-✍️ 4,963 lines written by AI, 64 lines written by hand (98.73% AI-written)
+✍️ 5,335 lines written by AI, 64 lines written by hand (98.81% AI-written)
 
-🔤 15,519,496 Input Tokens, 1,648,907 Output Tokens
+🔤 11,104,832 Input Tokens, 1,105,123 Output Tokens
 
-💵 $1630.11 Estimated AI Cost This Week
+💵 $918.81 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 229 AI Prompts
+🧠 43 AI Sessions, 170 AI Prompts
 
-Spark                    5,239 lines         █████████████████████████   100.00 % 
+Spark                    5,604 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.73% of written lines came from AI
-📝 Concise Prompter — average 249 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 10.96% of changed lines were hand-edited
+🤖 AI-Driven — 98.81% of written lines came from AI
+📝 Concise Prompter — average 214 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 10.32% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -128,7 +128,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-27 02:59:29 UTC
+ Last Updated on 2026-09-28 03:00:05 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
