@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C014%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C016%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,48 +67,48 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 5 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.80 % 
-Go                       2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-TypeScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Markdown                 6 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
+Go                       3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+TypeScript               2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Vue                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Text                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nexus-be                 3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
-ina-digital              2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-ghostmplay               2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-jira                     2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-cahayabahari89           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+ghostmplay               5 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
+nexus-be                 3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+jira                     3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+ina-digital              2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+cahayabahari89           1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 💻 Operating System: 
-Linux                    12 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 13 mins (81.6%)
+⏱ AI Coding Time: 13 hrs 59 mins (85.8%)
 
-✍️ 5,335 lines written by AI, 64 lines written by hand (98.81% AI-written)
+✍️ 6,565 lines written by AI, 82 lines written by hand (98.77% AI-written)
 
-🔤 11,104,832 Input Tokens, 1,105,123 Output Tokens
+🔤 12,713,052 Input Tokens, 1,281,702 Output Tokens
 
-💵 $918.81 Estimated AI Cost This Week
+💵 $1212.20 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 170 AI Prompts
+🧠 39 AI Sessions, 196 AI Prompts
 
-Spark                    5,604 lines         █████████████████████████   100.00 % 
+Spark                    6,855 lines         █████████████████████████   98.53 % 
+Mimo                     102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.81% of written lines came from AI
-📝 Concise Prompter — average 214 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 10.32% of changed lines were hand-edited
+🤖 AI-Driven — 98.77% of written lines came from AI
+📝 Concise Prompter — average 177 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 8.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -128,7 +128,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-09-28 03:00:05 UTC
+ Last Updated on 2026-09-29 03:40:31 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
