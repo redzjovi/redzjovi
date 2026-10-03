@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C032%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C036%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-228%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,46 +67,48 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-Markdown                 3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Vue                      3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Go                       3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Markdown                 5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+TypeScript               5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+Vue                      2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Go                       2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  22 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ghostmplay               15 hrs 16 mins      ██████████████████░░░░░░░   70.28 % 
-nexus-be                 4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-jira                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+ghostmplay               14 hrs 25 mins      ████████████████░░░░░░░░░   64.10 % 
+nexus-be                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+jira                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+ina-digital              2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    21 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 2 mins (92.22%)
+⏱ AI Coding Time: 20 hrs 27 mins (90.92%)
 
-✍️ 14,227 lines written by AI, 58 lines written by hand (99.59% AI-written)
+✍️ 15,606 lines written by AI, 89 lines written by hand (99.43% AI-written)
 
-🔤 15,842,760 Input Tokens, 1,614,286 Output Tokens
+🔤 18,648,896 Input Tokens, 1,896,868 Output Tokens
 
-💵 $1972.92 Estimated AI Cost This Week
+💵 $1947.97 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 181 AI Prompts
+🧠 31 AI Sessions, 173 AI Prompts
 
-Opencode-Cli             10,153 lines        █████████████████░░░░░░░░   67.15 % 
-Spark                    4,865 lines         ████████░░░░░░░░░░░░░░░░░   32.18 % 
-Mimo                     102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Opencode-Cli             10,584 lines        ████████████████░░░░░░░░░   64.34 % 
+Spark                    5,765 lines         █████████░░░░░░░░░░░░░░░░   35.04 % 
+Mimo                     102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.59% of written lines came from AI
-📝 Concise Prompter — average 170 characters per prompt
+🤖 AI-Driven — 99.43% of written lines came from AI
+📝 Concise Prompter — average 313 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 4.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,7 +128,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-02 03:32:24 UTC
+ Last Updated on 2026-10-03 03:16:05 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
