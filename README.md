@@ -67,48 +67,48 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-TypeScript               5 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Vue                      2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Go                       2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Markdown                 5 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+TypeScript               4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Vue                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Go                       2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ghostmplay               14 hrs 25 mins      ████████████████░░░░░░░░░   64.10 % 
-nexus-be                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-jira                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-ina-digital              2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+ghostmplay               12 hrs 45 mins      ███████████████░░░░░░░░░░   61.24 % 
+nexus-be                 2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+jira                     2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+ina-digital              2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    22 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 27 mins (90.92%)
+⏱ AI Coding Time: 18 hrs 57 mins (90.99%)
 
-✍️ 15,606 lines written by AI, 89 lines written by hand (99.43% AI-written)
+✍️ 13,691 lines written by AI, 82 lines written by hand (99.4% AI-written)
 
-🔤 18,648,896 Input Tokens, 1,896,868 Output Tokens
+🔤 18,007,755 Input Tokens, 1,767,045 Output Tokens
 
-💵 $1947.97 Estimated AI Cost This Week
+💵 $1767.30 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 173 AI Prompts
+🧠 30 AI Sessions, 152 AI Prompts
 
-Opencode-Cli             10,584 lines        ████████████████░░░░░░░░░   64.34 % 
-Spark                    5,765 lines         █████████░░░░░░░░░░░░░░░░   35.04 % 
-Mimo                     102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Opencode-Cli             10,584 lines        ██████████████████░░░░░░░   73.54 % 
+Spark                    3,706 lines         ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Mimo                     102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.43% of written lines came from AI
-📝 Concise Prompter — average 313 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+🤖 AI-Driven — 99.4% of written lines came from AI
+📝 Concise Prompter — average 336 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -128,7 +128,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-04 03:44:58 UTC
+ Last Updated on 2026-10-05 03:28:25 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
