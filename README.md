@@ -32,7 +32,7 @@
 
 > 📦 190.6 kB Used in GitHub's Storage 
  > 
-> 🏆 94 Contributions in the Year 2026
+> 🏆 96 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -43,19 +43,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2203 commits        ██████████░░░░░░░░░░░░░░░   38.40 % 
-🌆 Daytime                1700 commits        ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-🌃 Evening                1529 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-🌙 Night                  305 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+🌞 Morning                2203 commits        ██████████░░░░░░░░░░░░░░░   38.39 % 
+🌆 Daytime                1702 commits        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+🌃 Evening                1529 commits        ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+🌙 Night                  305 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Tuesday                  787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Wednesday                775 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Thursday                 624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Friday                   539 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Monday                   710 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Tuesday                  787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Wednesday                775 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Thursday                 626 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   539 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 Saturday                 922 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 Sunday                   1380 commits        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
 ```
@@ -67,38 +67,38 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       8 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.58 % 
-Other                    3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-YAML                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-TypeScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-SQL                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Go                       8 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.24 % 
+Other                    3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+YAML                     2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+TypeScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+SQL                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 33 mins      ████████████████████████░   94.09 % 
-Opencode Cli             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+VS Code                  18 hrs 6 mins       ████████████████████████░   94.25 % 
+Opencode Cli             1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-nexus-be                 12 hrs 24 mins      █████████████████░░░░░░░░   66.44 % 
-ina-digital              3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-ghostmplay               3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-jira                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+nexus-be                 12 hrs 24 mins      ████████████████░░░░░░░░░   64.57 % 
+ghostmplay               3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+ina-digital              3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+jira                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Linux                    18 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 32 mins (83.22%)
+⏱ AI Coding Time: 16 hrs 4 mins (83.7%)
 
 ✍️ 2,762 lines written by AI, 706 lines written by hand (79.64% AI-written)
 
-🔤 17,650,203 Input Tokens, 1,171,375 Output Tokens
+🔤 18,111,538 Input Tokens, 1,252,193 Output Tokens
 
-💵 $1491.87 Estimated AI Cost This Week
+💵 $1514.33 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 149 AI Prompts
+🧠 28 AI Sessions, 156 AI Prompts
 
 Spark                    2,547 lines         ████████████████░░░░░░░░░   62.75 % 
 Opencode-Cli             1,279 lines         ████████░░░░░░░░░░░░░░░░░   31.51 % 
@@ -106,7 +106,7 @@ MiMo                     233 lines           █░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 79.64% of written lines came from AI
-📝 Concise Prompter — average 193 characters per prompt
+📝 Concise Prompter — average 248 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 52.45% of changed lines were hand-edited
 ```
@@ -128,7 +128,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-10 03:46:55 UTC
+ Last Updated on 2026-10-11 03:20:02 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
