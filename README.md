@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C070%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C075%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-265%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-270%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,50 +67,52 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 5 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.58 % 
-Go                       3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Bash                     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-TypeScript               1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Markdown                 5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.47 % 
+Go                       4 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.05 % 
+Bash                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+SQL                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-VS Code                  16 hrs              ████████████████████████░   96.91 % 
-Opencode Cli             30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+VS Code                  11 hrs 23 mins      █████████████████████░░░░   82.92 % 
+OpenCode                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Opencode Cli             1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 🐱‍💻 Projects: 
-ghostmplay               13 hrs 35 mins      █████████████████████░░░░   82.26 % 
-nexus-be                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-jira                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-ina-digital              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+ghostmplay               6 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.97 % 
+nexus-be                 5 hrs 48 mins       ███████████░░░░░░░░░░░░░░   42.27 % 
+jira                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+ina-digital              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Linux                    16 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 6 mins (85.39%)
+⏱ AI Coding Time: 12 hrs 31 mins (91.12%)
 
-✍️ 23,585 lines written by AI, 306 lines written by hand (98.72% AI-written)
+✍️ 11,785 lines written by AI, 293 lines written by hand (97.57% AI-written)
 
-🔤 15,296,712 Input Tokens, 1,783,247 Output Tokens
+🔤 13,393,341 Input Tokens, 1,335,010 Output Tokens
 
-💵 $1621.99 Estimated AI Cost This Week
+💵 $1376.01 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 147 AI Prompts
+🧠 22 AI Sessions, 119 AI Prompts
 
-Opencode-Cli             23,652 lines        █████████████████████████   98.76 % 
-Qwen                     251 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-MiMo                     26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Spark                    19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Opencode-Cli             10,575 lines        ██████████████████████░░░   86.71 % 
+Vscode                   828 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+DeepSeek                 497 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Qwen                     251 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+MiMo                     26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.72% of written lines came from AI
-📝 Concise Prompter — average 376 characters per prompt
+🤖 AI-Driven — 97.57% of written lines came from AI
+📝 Concise Prompter — average 352 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.49% of changed lines were hand-edited
+🚀 High AI Trust — 2.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -130,7 +132,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-19 02:45:19 UTC
+ Last Updated on 2026-10-20 02:56:58 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
