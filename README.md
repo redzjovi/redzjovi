@@ -67,49 +67,47 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.47 % 
-Markdown                 3 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
-Other                    1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-SQL                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Go                       3 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.24 % 
+Markdown                 3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+Other                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+SQL                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+YAML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.72 % 
-Opencode Cli             5 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-OpenCode                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Opencode Cli             5 hrs 24 mins       ████████████░░░░░░░░░░░░░   47.88 % 
+VS Code                  5 hrs 1 min         ███████████░░░░░░░░░░░░░░   44.50 % 
+OpenCode                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 🐱‍💻 Projects: 
-nexus-be                 9 hrs               █████████████████░░░░░░░░   68.10 % 
-Default Project          2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-ina-digital              1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-jira                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+nexus-be                 7 hrs 25 mins       ████████████████░░░░░░░░░   65.71 % 
+Default Project          2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+ina-digital              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+jira                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Linux                    13 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 20 mins (93.4%)
+⏱ AI Coding Time: 10 hrs 34 mins (93.6%)
 
-✍️ 3,682 lines written by AI, 52 lines written by hand (98.61% AI-written)
+✍️ 2,970 lines written by AI, 55 lines written by hand (98.18% AI-written)
 
-🔤 13,646,471 Input Tokens, 1,245,248 Output Tokens
+🔤 11,093,676 Input Tokens, 1,108,214 Output Tokens
 
-💵 $821.51 Estimated AI Cost This Week
+💵 $557.03 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 121 AI Prompts
+🧠 11 AI Sessions, 100 AI Prompts
 
-DeepSeek                 3,018 lines         ███████████████████░░░░░░   76.19 % 
-Vscode                   828 lines           █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Opencode-Cli             115 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+DeepSeek                 3,207 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.61% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 1.74% of changed lines were hand-edited
+🤖 AI-Driven — 98.18% of written lines came from AI
+📝 Concise Prompter — average 93 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 2.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -129,7 +127,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-26 02:40:01 UTC
+ Last Updated on 2026-10-27 03:15:05 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
