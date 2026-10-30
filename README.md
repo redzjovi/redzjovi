@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C091%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C093%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-287%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,46 +67,45 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 24 mins       █████████████░░░░░░░░░░░░   53.55 % 
-Markdown                 3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-SQL                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Go                       8 hrs 59 mins       ██████████████████░░░░░░░   72.33 % 
+Markdown                 1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+SQL                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Makefile                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.46 % 
-Opencode Cli             5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
-OpenCode                 1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+VS Code                  6 hrs 33 mins       █████████████░░░░░░░░░░░░   52.71 % 
+Opencode Cli             3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+OpenCode                 2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 
 🐱‍💻 Projects: 
-nexus-be                 11 hrs 1 min        ████████████████████░░░░░   79.65 % 
-Default Project          2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-jira                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+nexus-be                 11 hrs 51 mins      ████████████████████████░   95.41 % 
+jira                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 💻 Operating System: 
-Linux                    13 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 30 mins (90.32%)
+⏱ AI Coding Time: 10 hrs 36 mins (85.34%)
 
-✍️ 3,752 lines written by AI, 311 lines written by hand (92.35% AI-written)
+✍️ 3,426 lines written by AI, 847 lines written by hand (80.18% AI-written)
 
-🔤 10,338,190 Input Tokens, 1,240,588 Output Tokens
+🔤 7,428,846 Input Tokens, 891,327 Output Tokens
 
-💵 $735.69 Estimated AI Cost This Week
+💵 $684.11 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 128 AI Prompts
+🧠 17 AI Sessions, 117 AI Prompts
 
-DeepSeek                 3,984 lines         █████████████████████████   100.00 % 
+DeepSeek                 3,656 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.35% of written lines came from AI
-📝 Concise Prompter — average 107 characters per prompt
+🤖 AI-Driven — 80.18% of written lines came from AI
+📝 Concise Prompter — average 108 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 27.07% of changed lines were hand-edited
+🚀 High AI Trust — 43.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,7 +125,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-10-29 03:51:13 UTC
+ Last Updated on 2026-10-30 03:54:38 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
