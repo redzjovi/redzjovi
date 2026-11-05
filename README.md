@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C094%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C100%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-291%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,45 +67,45 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       8 hrs 55 mins       ██████████████████░░░░░░░   70.90 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-SQL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-YAML                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Go                       7 hrs 17 mins       ████████████████████░░░░░   78.76 % 
+SQL                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 2 mins        ██████████████░░░░░░░░░░░   55.91 % 
-Opencode Cli             3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-OpenCode                 2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+VS Code                  5 hrs 46 mins       ████████████████░░░░░░░░░   62.35 % 
+Opencode Cli             2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+OpenCode                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 
 🐱‍💻 Projects: 
-nexus-be                 12 hrs 1 min        ████████████████████████░   95.47 % 
-jira                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+nexus-be                 9 hrs 15 mins       █████████████████████████   99.98 % 
+jira                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    12 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 24 mins (82.71%)
+⏱ AI Coding Time: 5 hrs 28 mins (59.09%)
 
-✍️ 3,383 lines written by AI, 875 lines written by hand (79.45% AI-written)
+✍️ 2,922 lines written by AI, 593 lines written by hand (83.13% AI-written)
 
-🔤 7,319,166 Input Tokens, 889,867 Output Tokens
+🔤 3,468,238 Input Tokens, 624,609 Output Tokens
 
-💵 $645.68 Estimated AI Cost This Week
+💵 $407.52 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 112 AI Prompts
+🧠 12 AI Sessions, 72 AI Prompts
 
-DeepSeek                 3,586 lines         █████████████████████████   100.00 % 
+DeepSeek                 2,998 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 79.45% of written lines came from AI
-📝 Concise Prompter — average 113 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 44.97% of changed lines were hand-edited
+🤖 AI-Driven — 83.13% of written lines came from AI
+📝 Concise Prompter — average 128 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 33.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,7 +125,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-01 03:44:08 UTC
+ Last Updated on 2026-11-05 05:58:50 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
