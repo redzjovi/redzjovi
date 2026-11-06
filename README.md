@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C100%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C104%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-291%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-295%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,45 +67,45 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       7 hrs 17 mins       ████████████████████░░░░░   78.76 % 
-SQL                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-YAML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Go                       8 hrs 32 mins       ███████████████████░░░░░░   75.04 % 
+SQL                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 46 mins       ████████████████░░░░░░░░░   62.35 % 
-Opencode Cli             2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-OpenCode                 1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+VS Code                  7 hrs 23 mins       ████████████████░░░░░░░░░   64.93 % 
+Opencode Cli             2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+OpenCode                 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 
 🐱‍💻 Projects: 
-nexus-be                 9 hrs 15 mins       █████████████████████████   99.98 % 
-jira                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+nexus-be                 11 hrs 17 mins      █████████████████████████   99.27 % 
+jira                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Linux                    9 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 28 mins (59.09%)
+⏱ AI Coding Time: 7 hrs 11 mins (63.27%)
 
-✍️ 2,922 lines written by AI, 593 lines written by hand (83.13% AI-written)
+✍️ 4,148 lines written by AI, 179 lines written by hand (95.86% AI-written)
 
-🔤 3,468,238 Input Tokens, 624,609 Output Tokens
+🔤 4,546,766 Input Tokens, 801,546 Output Tokens
 
-💵 $407.52 Estimated AI Cost This Week
+💵 $925.13 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 72 AI Prompts
+🧠 13 AI Sessions, 110 AI Prompts
 
-DeepSeek                 2,998 lines         █████████████████████████   100.00 % 
+DeepSeek                 4,304 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.13% of written lines came from AI
-📝 Concise Prompter — average 128 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 33.48% of changed lines were hand-edited
+🤖 AI-Driven — 95.86% of written lines came from AI
+📝 Concise Prompter — average 102 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 6.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,7 +125,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-05 05:58:50 UTC
+ Last Updated on 2026-11-06 04:37:06 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
