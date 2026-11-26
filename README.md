@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C132%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C133%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,46 +67,45 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 19 mins       ██████████████░░░░░░░░░░░   57.59 % 
-SQL                      1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Go                       4 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.74 % 
+SQL                      1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+YAML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       ██████████████░░░░░░░░░░░   57.71 % 
-Opencode Cli             2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-OpenCode                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+VS Code                  5 hrs 1 min         ███████████████░░░░░░░░░░   58.20 % 
+Opencode Cli             2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+OpenCode                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 
 🐱‍💻 Projects: 
-nexus-be                 9 hrs 2 mins        ████████████████████████░   97.89 % 
-sso                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-nexus-fe                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+nexus-be                 8 hrs 31 mins       █████████████████████████   98.83 % 
+sso                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Linux                    9 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 15 mins (67.71%)
+⏱ AI Coding Time: 5 hrs 51 mins (67.93%)
 
-✍️ 1,528 lines written by AI, 183 lines written by hand (89.3% AI-written)
+✍️ 1,753 lines written by AI, 73 lines written by hand (96.0% AI-written)
 
-🔤 2,584,260 Input Tokens, 552,008 Output Tokens
+🔤 2,631,711 Input Tokens, 509,742 Output Tokens
 
-💵 $481.48 Estimated AI Cost This Week
+💵 $409.77 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 73 AI Prompts
+🧠 15 AI Sessions, 70 AI Prompts
 
-DeepSeek                 1,581 lines         █████████████████████████   100.00 % 
+DeepSeek                 1,830 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.3% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
+🤖 AI-Driven — 96.0% of written lines came from AI
+📝 Concise Prompter — average 137 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 15.77% of changed lines were hand-edited
+🚀 High AI Trust — 6.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,7 +125,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-25 06:27:49 UTC
+ Last Updated on 2026-11-26 06:19:25 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
