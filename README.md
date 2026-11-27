@@ -20,9 +20,9 @@
 
 ## 🕒 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C133%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C134%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,45 +67,46 @@ Sunday                   1380 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       4 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.74 % 
-SQL                      1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-YAML                     1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Go                       4 hrs 35 mins       █████████████░░░░░░░░░░░░   52.81 % 
+SQL                      1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 1 min         ███████████████░░░░░░░░░░   58.20 % 
-Opencode Cli             2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
-OpenCode                 59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+VS Code                  5 hrs 20 mins       ███████████████░░░░░░░░░░   61.50 % 
+Opencode Cli             2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+OpenCode                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 
 🐱‍💻 Projects: 
-nexus-be                 8 hrs 31 mins       █████████████████████████   98.83 % 
-sso                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+nexus-be                 8 hrs 30 mins       ████████████████████████░   97.79 % 
+sso                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+gitlab                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Linux                    8 hrs 37 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 51 mins (67.93%)
+⏱ AI Coding Time: 5 hrs 38 mins (64.95%)
 
-✍️ 1,753 lines written by AI, 73 lines written by hand (96.0% AI-written)
+✍️ 1,156 lines written by AI, 112 lines written by hand (91.17% AI-written)
 
-🔤 2,631,711 Input Tokens, 509,742 Output Tokens
+🔤 2,665,019 Input Tokens, 476,374 Output Tokens
 
-💵 $409.77 Estimated AI Cost This Week
+💵 $417.70 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 70 AI Prompts
+🧠 16 AI Sessions, 67 AI Prompts
 
-DeepSeek                 1,830 lines         █████████████████████████   100.00 % 
+DeepSeek                 1,253 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.0% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.39% of changed lines were hand-edited
+🤖 AI-Driven — 91.17% of written lines came from AI
+📝 Concise Prompter — average 153 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 12.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,7 +126,7 @@ Svelte                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/redzjovi/redzjovi/master/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-26 06:19:25 UTC
+ Last Updated on 2026-11-27 06:08:25 UTC
 <!--END_SECTION:waka-->
 
 ## Get in touch
